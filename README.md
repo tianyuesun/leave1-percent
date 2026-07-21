@@ -112,11 +112,11 @@ The MVP currently includes:
 
 ## Collaboration
 
-I designed the product concept, interaction flow, safety boundaries, user experience, and intervention framework.
+I developed Leave1% through an iterative collaboration with ChatGPT 5.6 and Codex.
 
-I collaborated with Codex to implement the Expo application, verify the interaction flow, improve the interface, and prepare the project for deployment.
+I used ChatGPT 5.6 as a product design partner to refine the concept, intervention flow, safety boundaries, UI, and product language. I then worked with Codex to translate those decisions into a working Expo application, improve the interface, test both safety paths, verify the build, and prepare the project for deployment.
 
-Product vision, safety principles, and user experience decisions remained under my direction throughout development.
+I made the final decisions about the product vision, safety principles, feature scope, and user experience.
 
 ---
 
